@@ -1,2 +1,2 @@
 # FirebaseAuthRestApi-react-app
-In this app we are using the Firebase Authentication REST API to verrify users when they try to log in. The user is able to create an account, login, and then to change their password if they want. 
+In this app we are using the Firebase Authentication REST API to verify users when they try to log in. The user is able to create an account, login, and then to change their password if they want. We are also managing our state with context and allowing the user to stay logged in based on a timer that we create. Lastly, we are using localStorage to store the token which keeps track of the time that has elapsed.
