@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FirebaseAuthRestApi-react-app/static/css/main.d277dfb5.chunk.css",
+    "main.js": "/FirebaseAuthRestApi-react-app/static/js/main.84114a43.chunk.js",
+    "main.js.map": "/FirebaseAuthRestApi-react-app/static/js/main.84114a43.chunk.js.map",
+    "runtime-main.js": "/FirebaseAuthRestApi-react-app/static/js/runtime-main.11b47f51.js",
+    "runtime-main.js.map": "/FirebaseAuthRestApi-react-app/static/js/runtime-main.11b47f51.js.map",
+    "static/js/2.10bcb576.chunk.js": "/FirebaseAuthRestApi-react-app/static/js/2.10bcb576.chunk.js",
+    "static/js/2.10bcb576.chunk.js.map": "/FirebaseAuthRestApi-react-app/static/js/2.10bcb576.chunk.js.map",
+    "index.html": "/FirebaseAuthRestApi-react-app/index.html",
+    "static/css/main.d277dfb5.chunk.css.map": "/FirebaseAuthRestApi-react-app/static/css/main.d277dfb5.chunk.css.map",
+    "static/js/2.10bcb576.chunk.js.LICENSE.txt": "/FirebaseAuthRestApi-react-app/static/js/2.10bcb576.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11b47f51.js",
+    "static/js/2.10bcb576.chunk.js",
+    "static/css/main.d277dfb5.chunk.css",
+    "static/js/main.84114a43.chunk.js"
+  ]
+}
